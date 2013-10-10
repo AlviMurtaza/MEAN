@@ -1,0 +1,11 @@
+body {
+  font-family: "ubuntu", "sans-serif;";
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAUElEQVQYV2NkYGAwBuKzQAwDID4IoIgxIikAMZE1oRiArBDdZBSNMIXoJiFbDZYDKcSmCOYimDuNSVKIzRNYrUYOFuQgweoZbIoxgoeoAAcAEckW11HVTfcAAAAASUVORK5CYII=");
+  padding-top: 50px;
+  width: 70%;
+  margin: auto;
+}
+
+a {
+  color: #000000;
+}

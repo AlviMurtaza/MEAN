@@ -1,0 +1,12 @@
+h2 Edit post
+label(for='title') Title:
+input(ng-model='form.title', name='title')
+p
+label(for='author') Author:
+input(ng-model='form.author', name='author')
+p Body:
+textarea(ng-model='form.body', cols='50', rows='15')
+p
+  button(ng-click="cancel()") Cancel
+  button(ng-click='editPost()') Edit Post
+

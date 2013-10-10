@@ -1,0 +1,11 @@
+h3 {{post.title}}
+h4 Author: {{post.author}}
+  hr(width='200px', align ='left')
+h3 Body:
+div{{post.body}}
+  hr(width='600px', align ='left')
+p
+  | Are you sure you want to delete this post?
+  button(ng-click='deletePost()') Yeah! Sure
+  |  -
+  button(ng-click='home()') No thanks!
