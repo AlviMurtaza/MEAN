@@ -42,4 +42,5 @@ Just fetch the changes and merge them into your project with git.
 ## Contributors
 
 Bassam Ismail : http://github.com/skippednote
+
 Murtaza Alvi : http://hithub.com/AlviMurtaza
