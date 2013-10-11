@@ -12,6 +12,9 @@ Runs like a typical express app:
 
 Just fetch the changes and merge them into your project with git.
 
+## Checkout:
+
+      http://alvimurtaza-crud.jit.su/
 
 ## Directory Layout
 

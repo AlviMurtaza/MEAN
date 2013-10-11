@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/posts_database');
+mongoose.connect('mongodb://nodejitsu:c372d1ea9b79bff622be8dfacb1bacfc@paulo.mongohq.com:10063/nodejitsudb686835655');
 
 var postSchema = mongoose.Schema({
     title: 'string',
