@@ -44,6 +44,6 @@ Just fetch the changes and merge them into your project with git.
 
 ## Contributors
 
-Murtaza Alvi : http://hithub.com/AlviMurtaza
+Murtaza Alvi : http://github.com/AlviMurtaza
 
 Bassam Ismail : http://github.com/skippednote
